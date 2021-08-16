@@ -145,8 +145,8 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                        url="t.me/abhinasroy")],
                                                                                    [InlineKeyboardButton(text="ADD GRAND OFFICIAL TO YOUR GROUP",
                                                                        url="t.me/{}?startgroup=true".format(bot.username)),
-                                                                                   InlineKeyboardButton(text="Channel",
-                                                                       url="https://t.me/ABOUT_ABHINAS")
+                                                                                   InlineKeyboardButton(text="Source Code",
+                                                                       url="https://github.com/legendx22/GRANDROBOT")
                                                                                  ]]))
 
     else:
